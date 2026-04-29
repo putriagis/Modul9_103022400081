@@ -1,2 +1,11 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("modul_9");
+using System;
+using Modul9_103022400081;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+
+    }
+}
